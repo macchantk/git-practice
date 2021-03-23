@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です。
 ローカルリポで変更　　
 conflictブランチで変更
-main branchで変更 git mergetool
+複数ファイル変更 3rd
+mergetool用(feature branch)
