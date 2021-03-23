@@ -2,9 +2,4 @@
 このリポジトリはGit動画講座用です。
 ローカルリポで変更　　
 conflictブランチで変更
-<<<<<<< HEAD
-main branchで変更
-=======
-複数ファイル変更 3rd
-mergetoolコンフリクト用(feature branch)
->>>>>>> feature
+main branchで変更 git mergetool
